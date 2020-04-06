@@ -1,0 +1,24 @@
+[
+	{"dhaka_infected":53},
+	{"dhaka_deaths":0},
+	
+
+	{"rajshahi_infected":53},
+	{"rajshahi_deaths":0},
+
+	{"rangpur_infected":3},
+	{"rangpur_deaths":0},
+
+	{"khulna_infected":5},
+	{"khulna_deaths":0},
+
+	{"barishal_infected":43},
+	{"barishal_deaths":0},
+
+	{"syhlet_infected":53},
+	{"syhlet_deaths":0},
+
+	{"chittagong_infected":73},
+	{"chittagong_deaths":0}
+
+]
