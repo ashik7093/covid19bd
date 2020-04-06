@@ -6,6 +6,8 @@
   "Mymensingh":["TI", "TD", "Jamalpur", "Mymensingh",     "Netrakona","Sherpur"],
   "Rajshahi"  :["TI", "TD", "Bogra",    "Chapainawabganj","Joypurhat","Naogaon",    "Natore",     "Pabna",      "Rajshahi", "Sirajganj"],
   "Rangpur"   :["TI", "TD", "Dinajpur", "Gaibandha",      "Kurigram", "Lalmonirhat","Nilphamari", "Panchagarh", "Rangpur",  "Thakurgaon"],
-  "Sylhet"    :["TI", "TD", "Habiganj", "Moulvibazar",    "Sunamganj","Sylhet"]
-}
+  "Sylhet"    :["TI", "TD", "Habiganj", "Moulvibazar",    "Sunamganj","Sylhet"],
+  "update"	  :"06 April 2020 - 08:30 PM"	
+},
+
 ]
