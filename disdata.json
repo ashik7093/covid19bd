@@ -21,20 +21,20 @@
   	"Noakhali - 0", 
   	"Rangamati - 0"],
   
-  "Dhaka":     ["146", "9", 
-  	"Dhaka - 90",    
+  "Dhaka":     ["199", "9", 
+  	"Dhaka - 129",    
   	"Faridpur - 0",       
   	"Gazipur - 1",  
   	"Gopalganj - 0",  
-  	"Kishoreganj - 0",
+  	"Kishoreganj - 1",
   	"Madaripur - 11",  
   	"Manikganj - 3",
   	"Munshiganj - 0",  
-  	"Narayanganj - 38",
-  	"Narsingdi - 2",
-  	"Rajbari - 0",
+  	"Narayanganj - 46",
+  	"Narsingdi - 4",
+  	"Rajbari - 1",
   	"Shariatpur - 1",
-  	"Tangail - 0"],
+  	"Tangail - 2"],
   
   "Khulna":    ["1", "0", 
   	"Bagerhat - 0", 
@@ -64,12 +64,12 @@
   	"Rajshahi - 0", 
   	"Sirajganj - 0"],
   
-  "Rangpur"   :["6", "0", 
+  "Rangpur"   :["7", "0", 
   	"Dinajpur - 0", 
   	"Gaibandha - 5",      
   	"Kurigram - 0", 
   	"Lalmonirhat - 0",
-  	"Nilphamari - 0", 
+  	"Nilphamari - 1", 
   	"Panchagarh - 0", 
   	"Rangpur - 1",  
   	"Thakurgaon - 0"],
@@ -80,7 +80,7 @@
   	"Sunamganj - 0",
   	"Sylhet - 1"],
   
-  "update"	  :"08 April 2020 - 01:03 AM"	
+  "update"	  :"08 April 2020 - 10:55 PM"	
 }
 
 ]
