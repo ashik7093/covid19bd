@@ -8,7 +8,41 @@
   "totalRecovered":    ["33"],
 
   
-  "update"	  :"09 April 2020 - 7:53 PM"	
+  "update"	  :"08 April 2020 - 10:55 PM",
+
+  "iedcrTabData" : '<div class="card-text text-center">
+           <table class="table">
+              <caption>Covid-19 Test Update</caption>
+                <thead class="thead-dark">
+
+                  <tr>
+                    <th scope="col" id="status_update_date">07-Apr-2020</th>
+                    <th scope="col">IEDCR</th>
+                    <th scope="col">Others</th>
+                    <th scope="col">Total</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <th scope="row">Test in last 24 Hours</th>
+                    <td>157</td>    <td>522</td>         <td>679</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Total test</th>
+                    <td>2271</td>   <td>2018</td>    <td>4289</td>
+                  </tr>
+                  <tr>
+                    <th scope="row">Positive Case in 24 Hours</th>
+                    <td>31</td>  <td>23</td>   <td>54</td>
+                  </tr>
+
+                   <tr class="text-danger">
+                    <th scope="row" >Total Cases</th>
+                    <td>154</td>   <td>64</td>   <td>218</td>
+                  </tr>
+                </tbody>
+            </table>
+         </div>'	
 }
 
 ]
