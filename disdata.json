@@ -1,33 +1,35 @@
 [{
   
-  "Barisal":   ["2", "0", 
-  	"  Barguna <span class=\"text-danger\" > -   1 <\/span>",
-" Potuakhali  <span class=\"text-danger\" > -   1 <\/span>"
+  "Barisal":   ["7", "0","  Barguna <span class=\"text-danger\" > -   3 <\/span>",
+" Potuakhali  <span class=\"text-danger\" > -   1 <\/span>",
+" Jhalokathi  <span class=\"text-danger\" > -   3 <\/span>"
+
 ],
   
-  "Chittagong":["25", "0", 
-  	"  Chattogram  <span class=\"text-danger\" > -   8 <\/span>",
+  "Chittagong":["35", "0", 
+  	"  Chattogram  <span class=\"text-danger\" > -   12<\/span>",
 " Cox's bazar <span class=\"text-danger\" > -   1 <\/span>",
-" Cumilla <span class=\"text-danger\" > -   8 <\/span>",
-" B. Baria  <span class=\"text-danger\" > -   4 <\/span>",
-" Chandpur  <span class=\"text-danger\" > -   4 <\/span>"
+" Cumilla <span class=\"text-danger\" > -   9 <\/span>",
+" Laksmipur <span class=\"text-danger\" > -   1 <\/span>",
+" B. Baria  <span class=\"text-danger\" > -   6 <\/span>",
+" Chandpur  <span class=\"text-danger\" > -   6 <\/span>"
 ],
   
-  "Dhaka":     ["419", "9", 
-  	"  Dhaka City  <span class=\"text-danger\" > -   251 <\/span>",
-" Dhaka (District)  <span class=\"text-danger\" > -   18  <\/span>",
-" Gazipur <span class=\"text-danger\" > -   12  <\/span>",
+  "Dhaka":     ["541", "0", 
+  	"  Dhaka City  <span class=\"text-danger\" > -   313 <\/span>",
+" Dhaka (District)  <span class=\"text-danger\" > -   22  <\/span>",
+" Gazipur <span class=\"text-danger\" > -   23  <\/span>",
 " Kishoreganj <span class=\"text-danger\" > -   10  <\/span>",
-" Madaripur <span class=\"text-danger\" > -   13  <\/span>",
+" Madaripur <span class=\"text-danger\" > -   19  <\/span>",
 " Manikganj <span class=\"text-danger\" > -   5 <\/span>",
-" Keraniganj  <span class=\"text-danger\" > -   1 <\/span>",
-" Narayanganj <span class=\"text-danger\" > -   83  <\/span>",
-" Munshigonj  <span class=\"text-danger\" > -   11  <\/span>",
+" Narayanganj <span class=\"text-danger\" > -   107 <\/span>",
+" Munshigonj  <span class=\"text-danger\" > -   14  <\/span>",
 " Narshingdi  <span class=\"text-danger\" > -   4 <\/span>",
 " Rajbari <span class=\"text-danger\" > -   6 <\/span>",
 " Tangail <span class=\"text-danger\" > -   2 <\/span>",
 " Shariatpur  <span class=\"text-danger\" > -   1 <\/span>",
-" Gopalganj <span class=\"text-danger\" > -   2 <\/span>"
+" Gopalganj <span class=\"text-danger\" > -   3 <\/span>"
+
 
 ],
   
@@ -35,9 +37,9 @@
   	"  Chuadanga <span class=\"text-danger\" > -   1 <\/span>"
 ],
   
-  "Mymensingh":["11", "0", 
+  "Mymensingh":["14", "0", 
   	"  Mymensingh  <span class=\"text-danger\" > -   5 <\/span>",
-" Jamalpur  <span class=\"text-danger\" > -   3 <\/span>",
+" Jamalpur  <span class=\"text-danger\" > -   6 <\/span>",
 " Netrokona <span class=\"text-danger\" > -   1 <\/span>",
 " Sherpur <span class=\"text-danger\" > -   2 <\/span>"
 
@@ -54,9 +56,12 @@
   	"Sirajganj - 0"],
   
   "Rangpur"   :["9", "0", 
-  	" Rangpur <span class=\"text-danger\" > -   2 <\/span>",
-    " Gaibandha <span class=\"text-danger\" > -   5 <\/span>",
-    " Nilphamari  <span class=\"text-danger\" > -   2 <\/span>"
+  	"  Rangpur <span class=\"text-danger\" > -   2 <\/span>",
+" Gaibandha <span class=\"text-danger\" > -   6 <\/span>",
+" Nilphamari  <span class=\"text-danger\" > -   3 <\/span>",
+" Lalmonirhat <span class=\"text-danger\" > -   1 <\/span>",
+" Thakurgaon  <span class=\"text-danger\" > -   3 <\/span>"
+
 ],
 
   "Sylhet"    :["3", "0", 
@@ -66,81 +71,87 @@
 ],
 
 
-  "DhakaAll" : ["243","",
-" Adabor  <span class=\"text-danger\" > -   1 <\/span>",
+  "DhakaAll" : ["284","",
+    "  Adabor  <span class=\"text-danger\" > -   1 <\/span>",
 " Agargaon  <span class=\"text-danger\" > -   2 <\/span>",
 " Ashkona <span class=\"text-danger\" > -   1 <\/span>",
 " Azimpur <span class=\"text-danger\" > -   2 <\/span>",
-" Babu Bazar  <span class=\"text-danger\" > -   2 <\/span>",
-" Badda <span class=\"text-danger\" > -   3 <\/span>",
+" Babu Bazar  <span class=\"text-danger\" > -   3 <\/span>",
+" Badda <span class=\"text-danger\" > -   4 <\/span>",
 " Baily Road  <span class=\"text-danger\" > -   3 <\/span>",
 " Banani  <span class=\"text-danger\" > -   7 <\/span>",
-" Bangshal  <span class=\"text-danger\" > -   3 <\/span>",
+" Bangshal  <span class=\"text-danger\" > -   7 <\/span>",
 " Basabo  <span class=\"text-danger\" > -   12  <\/span>",
 " Bashundhora <span class=\"text-danger\" > -   4 <\/span>",
 " Begunbari <span class=\"text-danger\" > -   1 <\/span>",
 " Beribadh  <span class=\"text-danger\" > -   1 <\/span>",
-" Bongshal  <span class=\"text-danger\" > -   4 <\/span>",
 " Bosila  <span class=\"text-danger\" > -   1 <\/span>",
 " Buet Area <span class=\"text-danger\" > -   1 <\/span>",
 " Central Road  <span class=\"text-danger\" > -   1 <\/span>",
-" Chawk Bazar <span class=\"text-danger\" > -   3 <\/span>",
+" Chawk Bazar <span class=\"text-danger\" > -   4 <\/span>",
 " Dhakkeshori <span class=\"text-danger\" > -   1 <\/span>",
 " Dhanmondi <span class=\"text-danger\" > -   14  <\/span>",
 " Dholaikhal  <span class=\"text-danger\" > -   1 <\/span>",
 " Doyaganj  <span class=\"text-danger\" > -   1 <\/span>",
 " Eskaton <span class=\"text-danger\" > -   1 <\/span>",
-" Gendaria  <span class=\"text-danger\" > -   2 <\/span>",
+" Farmgate  <span class=\"text-danger\" > -   1 <\/span>",
+" Gendaria  <span class=\"text-danger\" > -   3 <\/span>",
 " Green Road  <span class=\"text-danger\" > -   5 <\/span>",
 " Gulistan  <span class=\"text-danger\" > -   2 <\/span>",
 " Gulshan <span class=\"text-danger\" > -   4 <\/span>",
 " Hatir jhil  <span class=\"text-danger\" > -   1 <\/span>",
 " Hatirpool <span class=\"text-danger\" > -   2 <\/span>",
-" Hazaribagh  <span class=\"text-danger\" > -   4 <\/span>",
+" Hazaribagh  <span class=\"text-danger\" > -   8 <\/span>",
 " Islampur  <span class=\"text-danger\" > -   2 <\/span>",
+" Jailgate  <span class=\"text-danger\" > -   2 <\/span>",
 " Jatrabari <span class=\"text-danger\" > -   11  <\/span>",
 " Jigatala  <span class=\"text-danger\" > -   3 <\/span>",
 " Kamrangir Char  <span class=\"text-danger\" > -   1 <\/span>",
 " Kazi para <span class=\"text-danger\" > -   1 <\/span>",
 " Kodomtoli <span class=\"text-danger\" > -   1 <\/span>",
 " Kotowali  <span class=\"text-danger\" > -   2 <\/span>",
-" Lalbagh <span class=\"text-danger\" > -   11  <\/span>",
+" Lalbagh <span class=\"text-danger\" > -   13  <\/span>",
 " Laxmibazar  <span class=\"text-danger\" > -   2 <\/span>",
 " Malibagh  <span class=\"text-danger\" > -   2 <\/span>",
 " Manikdi <span class=\"text-danger\" > -   1 <\/span>",
 " Mirhajaribagh <span class=\"text-danger\" > -   2 <\/span>",
 " Mirpur-1  <span class=\"text-danger\" > -   5 <\/span>",
 " Mirpur-6  <span class=\"text-danger\" > -   2 <\/span>",
-" Mirpur-10 <span class=\"text-danger\" > -   4 <\/span>",
+" Mirpur-10 <span class=\"text-danger\" > -   5 <\/span>",
 " Mirpur-11 <span class=\"text-danger\" > -   10  <\/span>",
-" Mirpur-12 <span class=\"text-danger\" > -   4 <\/span>",
+" Mirpur-12 <span class=\"text-danger\" > -   8 <\/span>",
 " Mirpur-13 <span class=\"text-danger\" > -   2 <\/span>",
 " Mitford <span class=\"text-danger\" > -   1 <\/span>",
-" Mogbazar  <span class=\"text-danger\" > -   2 <\/span>",
-" Mohakhali <span class=\"text-danger\" > -   3 <\/span>",
-" Mohammadpur <span class=\"text-danger\" > -   10  <\/span>",
+" Mogbazar  <span class=\"text-danger\" > -   4 <\/span>",
+" Mohakhali <span class=\"text-danger\" > -   7 <\/span>",
+" Mohammadpur <span class=\"text-danger\" > -   12  <\/span>",
 " Mugda <span class=\"text-danger\" > -   1 <\/span>",
-" Narinda <span class=\"text-danger\" > -   1 <\/span>",
+" Nawabpur  <span class=\"text-danger\" > -   1 <\/span>",
+" Narinda <span class=\"text-danger\" > -   2 <\/span>",
 " Nikunja <span class=\"text-danger\" > -   1 <\/span>",
 " Pirerbagh <span class=\"text-danger\" > -   2 <\/span>",
 " Purana Paltan <span class=\"text-danger\" > -   2 <\/span>",
 " Rajarbagh <span class=\"text-danger\" > -   2 <\/span>",
 " Rampura <span class=\"text-danger\" > -   1 <\/span>",
+" Rayerbazar  <span class=\"text-danger\" > -   1 <\/span>",
 " Sayedabad <span class=\"text-danger\" > -   1 <\/span>",
 " Shah Ali Bagh <span class=\"text-danger\" > -   2 <\/span>",
 " Shahbag <span class=\"text-danger\" > -   2 <\/span>",
-" Shantinagar <span class=\"text-danger\" > -   2 <\/span>",
+" Shantinagar <span class=\"text-danger\" > -   5 <\/span>",
 " Showari Ghat  <span class=\"text-danger\" > -   3 <\/span>",
+" Siddheshwari  <span class=\"text-danger\" > -   1 <\/span>",
 " Sonir akhra <span class=\"text-danger\" > -   1 <\/span>",
-" Tejgaon <span class=\"text-danger\" > -   2 <\/span>",
+" Sutrapur  <span class=\"text-danger\" > -   2 <\/span>",
+" Tejgaon <span class=\"text-danger\" > -   3 <\/span>",
 " Tolarbag  <span class=\"text-danger\" > -   19  <\/span>",
 " Urdu Road <span class=\"text-danger\" > -   1 <\/span>",
-" Uttara  <span class=\"text-danger\" > -   15  <\/span>",
-" Wari  <span class=\"text-danger\" > -   13  <\/span>"
+" Uttara  <span class=\"text-danger\" > -   17  <\/span>",
+" Wari  <span class=\"text-danger\" > -   16  <\/span>"
+
 
   ],
   
-  "update"	  :"11 April 2020 "	
+  "update"	  :"12 April 2020 "	
 }
 
 ]
