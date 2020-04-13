@@ -1,13 +1,14 @@
 [{
   
-  "Barisal":   ["7", "0","  Barguna <span class=\"text-danger\" > -   3 <\/span>",
-" Potuakhali  <span class=\"text-danger\" > -   1 <\/span>",
+  "Barisal":   ["10", "0","  Barguna <span class=\"text-danger\" > -   3 <\/span>",
+" Potuakhali  <span class=\"text-danger\" > -   2 <\/span>",
+" Barisal  <span class=\"text-danger\" > -   2 <\/span>",
 " Jhalokathi  <span class=\"text-danger\" > -   3 <\/span>"
 
 ],
   
-  "Chittagong":["35", "0", 
-  	"  Chattogram  <span class=\"text-danger\" > -   12<\/span>",
+  "Chittagong":["41", "0", 
+  	"  Chattogram  <span class=\"text-danger\" > -   18<\/span>",
 " Cox's bazar <span class=\"text-danger\" > -   1 <\/span>",
 " Cumilla <span class=\"text-danger\" > -   9 <\/span>",
 " Laksmipur <span class=\"text-danger\" > -   1 <\/span>",
@@ -15,18 +16,18 @@
 " Chandpur  <span class=\"text-danger\" > -   6 <\/span>"
 ],
   
-  "Dhaka":     ["555", "0", 
-  	"  Dhaka City  <span class=\"text-danger\" > -   313 <\/span>",
-" Dhaka (District)  <span class=\"text-danger\" > -   22  <\/span>",
-" Gazipur <span class=\"text-danger\" > -   23  <\/span>",
+  "Dhaka":     ["688", "0", 
+  	"  Dhaka City  <span class=\"text-danger\" > -   383 <\/span>",
+" Dhaka (District)  <span class=\"text-danger\" > -   24  <\/span>",
+" Gazipur <span class=\"text-danger\" > -   35  <\/span>",
 " Kishoreganj <span class=\"text-danger\" > -   10  <\/span>",
 " Madaripur <span class=\"text-danger\" > -   19  <\/span>",
 " Manikganj <span class=\"text-danger\" > -   5 <\/span>",
-" Narayanganj <span class=\"text-danger\" > -   107 <\/span>",
-" Munshigonj  <span class=\"text-danger\" > -   14  <\/span>",
-" Narshingdi  <span class=\"text-danger\" > -   4 <\/span>",
+" Narayanganj <span class=\"text-danger\" > -   144 <\/span>",
+" Munshigonj  <span class=\"text-danger\" > -   17  <\/span>",
+" Narshingdi  <span class=\"text-danger\" > -   20 <\/span>",
 " Rajbari <span class=\"text-danger\" > -   6 <\/span>",
-" Tangail <span class=\"text-danger\" > -   2 <\/span>",
+" Tangail <span class=\"text-danger\" > -   7 <\/span>",
 " Shariatpur  <span class=\"text-danger\" > -   1 <\/span>",
 " Gopalganj <span class=\"text-danger\" > -   3 <\/span>",
 
@@ -49,15 +50,9 @@
 
 ],
   
-  "Rajshahi"  :["0", "0", 
-  	"Bogra - 0",    
-  	"Chapainawabganj - 0",
-  	"Joypurhat - 0",
-  	"Naogaon - 0",    
-  	"Natore - 0",     
-  	"Pabna - 0",      
-  	"Rajshahi - 0", 
-  	"Sirajganj - 0"],
+  "Rajshahi"  :["2", "0", 
+" Rajshahi  <span class=\"text-danger\" > -   2 <\/span>"
+  	],
   
   "Rangpur"   :["15", "0", 
   	"  Rangpur <span class=\"text-danger\" > -   2 <\/span>",
