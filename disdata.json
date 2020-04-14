@@ -1,44 +1,48 @@
 [{
   
-  "Barisal":   ["10", "0","  Barguna <span class=\"text-danger\" > -   3 <\/span>",
+  "Barisal":   ["16", "0","  Barguna <span class=\"text-danger\" > -   3 <\/span>",
 " Potuakhali  <span class=\"text-danger\" > -   2 <\/span>",
-" Barisal  <span class=\"text-danger\" > -   2 <\/span>",
+" Barisal  <span class=\"text-danger\" > -   7 <\/span>",
+" Pirojpur  <span class=\"text-danger\" > -   1 <\/span>",
 " Jhalokathi  <span class=\"text-danger\" > -   3 <\/span>"
 
 ],
   
-  "Chittagong":["41", "0", 
-  	"  Chattogram  <span class=\"text-danger\" > -   18<\/span>",
+  "Chittagong":["50", "0", 
+  	"  Chattogram  <span class=\"text-danger\" > -   20<\/span>",
 " Cox's bazar <span class=\"text-danger\" > -   1 <\/span>",
-" Cumilla <span class=\"text-danger\" > -   9 <\/span>",
+" Cumilla <span class=\"text-danger\" > -   14<\/span>",
 " Laksmipur <span class=\"text-danger\" > -   1 <\/span>",
-" B. Baria  <span class=\"text-danger\" > -   6 <\/span>",
+" B. Baria  <span class=\"text-danger\" > -   8 <\/span>",
 " Chandpur  <span class=\"text-danger\" > -   6 <\/span>"
 ],
   
-  "Dhaka":     ["688", "0", 
-  	"  Dhaka City  <span class=\"text-danger\" > -   383 <\/span>",
-" Dhaka (District)  <span class=\"text-danger\" > -   24  <\/span>",
-" Gazipur <span class=\"text-danger\" > -   35  <\/span>",
-" Kishoreganj <span class=\"text-danger\" > -   10  <\/span>",
+  "Dhaka":     ["841", "0", 
+  	"  Dhaka City  <span class=\"text-danger\" > -   456 <\/span>",
+" Dhaka (District)  <span class=\"text-danger\" > -   28  <\/span>",
+" Gazipur <span class=\"text-danger\" > -   53 <\/span>",
+" Kishoreganj <span class=\"text-danger\" > -   17 <\/span>",
 " Madaripur <span class=\"text-danger\" > -   19  <\/span>",
 " Manikganj <span class=\"text-danger\" > -   5 <\/span>",
-" Narayanganj <span class=\"text-danger\" > -   144 <\/span>",
-" Munshigonj  <span class=\"text-danger\" > -   17  <\/span>",
-" Narshingdi  <span class=\"text-danger\" > -   20 <\/span>",
+" Narayanganj <span class=\"text-danger\" > -   164 <\/span>",
+" Munshigonj  <span class=\"text-danger\" > -   21  <\/span>",
+" Narshingdi  <span class=\"text-danger\" > -   28 <\/span>",
 " Rajbari <span class=\"text-danger\" > -   6 <\/span>",
 " Tangail <span class=\"text-danger\" > -   7 <\/span>",
-" Shariatpur  <span class=\"text-danger\" > -   1 <\/span>",
-" Gopalganj <span class=\"text-danger\" > -   3 <\/span>",
+" Shariatpur  <span class=\"text-danger\" > -   5<\/span>",
+" Faridpur <span class=\"text-danger\" > -   2 <\/span>",
+" Gopalganj <span class=\"text-danger\" > -   9 <\/span>",
 
-"  Mymensingh  <span class=\"text-danger\" > -   5 <\/span>",
-" Jamalpur  <span class=\"text-danger\" > -   6 <\/span>",
-" Netrokona <span class=\"text-danger\" > -   1 <\/span>",
-" Sherpur <span class=\"text-danger\" > -   2 <\/span>"
+"  Mymensingh  <span class=\"text-danger\" > -   7 <\/span>",
+" Jamalpur  <span class=\"text-danger\" > -   9 <\/span>",
+" Netrokona <span class=\"text-danger\" > -   2 <\/span>",
+" Sherpur <span class=\"text-danger\" > -   3 <\/span>"
 
 ],
   
-  "Khulna":    ["1", "0", 
+  "Khulna":    ["3", "0", 
+" Narail  <span class=\"text-danger\" > -   1 <\/span>",
+" Khulna  <span class=\"text-danger\" > -   1 <\/span>",
   	"  Chuadanga <span class=\"text-danger\" > -   1 <\/span>"
 ],
   
@@ -50,22 +54,24 @@
 
 ],
   
-  "Rajshahi"  :["2", "0", 
-" Rajshahi  <span class=\"text-danger\" > -   2 <\/span>"
+  "Rajshahi"  :["3", "0", 
+" Rajshahi  <span class=\"text-danger\" > -   3 <\/span>"
   	],
   
-  "Rangpur"   :["15", "0", 
+  "Rangpur"   :["19", "0", 
   	"  Rangpur <span class=\"text-danger\" > -   2 <\/span>",
-" Gaibandha <span class=\"text-danger\" > -   6 <\/span>",
-" Nilphamari  <span class=\"text-danger\" > -   3 <\/span>",
+" Gaibandha <span class=\"text-danger\" > -   8 <\/span>",
+" Nilphamari  <span class=\"text-danger\" > -   4<\/span>",
 " Lalmonirhat <span class=\"text-danger\" > -   1 <\/span>",
+" Kurigram   <span class=\"text-danger\" > -   1 <\/span>",
 " Thakurgaon  <span class=\"text-danger\" > -   3 <\/span>"
 
 ],
 
-  "Sylhet"    :["3", "0", 
-  	"  Moulovi Bazar <span class=\"text-danger\" > -   1 <\/span>",
-    "  Hobiganj <span class=\"text-danger\" > -   1 <\/span>",
+  "Sylhet"    :["6", "0", 
+  	"  Moulovi Bazar <span class=\"text-danger\" > -   2 <\/span>",
+" Sunamganj  <span class=\"text-danger\" > -   1 <\/span>",
+    "  Hobiganj <span class=\"text-danger\" > -   2 <\/span>",
     "  Sylhet  <span class=\"text-danger\" > -   1 <\/span>"
 ],
 
@@ -150,7 +156,7 @@
 
   ],
   
-  "update"	  :"13 April 2020 "	
+  "update"	  :"14 April 2020 "	
 }
 
 ]
