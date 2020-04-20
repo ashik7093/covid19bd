@@ -1,19 +1,19 @@
 [{
   
-  "todayDeaths":       ["৭"],
-  "totalDeaths":       ["৯১"],
-  "todayCases":        ["৩১২"],
-  "totalCases":        ["২৪৫৬"],
-  "todayRecovered":    ["৯"],
+  "todayDeaths":       ["১০"],
+  "totalDeaths":       ["১০১"],
+  "todayCases":        ["৪৯২"],
+  "totalCases":        ["২৯৪৮"],
+  "todayRecovered":    ["০"],
   "totalRecovered":    ["৭৫"],
-  "runningCase"   :     ["২২৯০"],
+  "runningCase"   :     ["২৭৭২"],
 
   "worldAffected" :    ["১৬২১৩৪৮"],
   "worldDeath"    :     ["৯৭১৭৯"],
   "worldRecovered":     ["৩৬৬২১৫"],
 
   
-  "update"	  :"১৯ এপ্রিল ২০২০ - ০২:৩০ PM"
+  "update"	  :"২০ এপ্রিল ২০২০ - ০২:৩০ PM"
 
   
 }
