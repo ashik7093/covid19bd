@@ -4,9 +4,9 @@
   "totalDeaths":       ["১১০"],
   "todayCases":        ["৪৩৪"],
   "totalCases":        ["৩৩৮২"],
-  "todayRecovered":    ["০"],
-  "totalRecovered":    ["৮৫"],
-  "runningCase"   :     ["৩১৮৭"],
+  "todayRecovered":    ["২"],
+  "totalRecovered":    ["৮৭"],
+  "runningCase"   :     ["৩১৮৫"],
 
   "worldAffected" :    ["১৬২১৩৪৮"],
   "worldDeath"    :     ["৯৭১৭৯"],
