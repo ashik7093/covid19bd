@@ -1,9 +1,9 @@
 [{
   
-  "todayDeaths":       ["৪"],
-  "totalDeaths":       ["১৩১"],
-  "todayCases":        ["৫০৩"],
-  "totalCases":        ["৪৬৮৯"],
+  "todayDeaths":       ["৯"],
+  "totalDeaths":       ["১৪০"],
+  "todayCases":        ["৩০৯"],
+  "totalCases":        ["৪৯৯৮"],
   "todayRecovered":    ["৪"],
   "totalRecovered":    ["১১২"],
   "runningCase"   :     ["৪৪৪৬"],
@@ -13,7 +13,7 @@
   "worldRecovered":     ["৩৬৬২১৫"],
 
   
-  "update"	  :"২৪ এপ্রিল ২০২০ - ০২:৩০ PM"
+  "update"	  :"২৫ এপ্রিল ২০২০ - ০২:৩০ PM"
 
   
 }
